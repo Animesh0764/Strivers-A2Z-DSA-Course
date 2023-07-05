@@ -1,4 +1,4 @@
-# Strivers-A2Z-DSA-Course
+# Strivers-A2Z-DSA-Course-CPP
 These are the codes of Strivers A2z DSA Course/Sheet
 
 https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
